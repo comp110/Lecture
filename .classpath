@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="support/comp110.jar"/>
 	<classpathentry kind="lib" path="support/comp110.lecture01.jar"/>
+	<classpathentry kind="lib" path="support/comp110.lecture02.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
